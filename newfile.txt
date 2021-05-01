@@ -1,1 +1,2 @@
 Halo There! This is my new changes to the txt file.
+Changes noted. You might wanna run the application now.
